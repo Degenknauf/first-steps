@@ -1,3 +1,6 @@
+//Comments from Degenknauf inserted in the
+//frame of testing the work with git
+/*********************************************
 class Led {
   private:
   uint8_t _pin;
