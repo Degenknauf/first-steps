@@ -1,5 +1,6 @@
 //Comments from Degenknauf inserted in the
 //frame of testing the work with git
+//This comment has been inserted while testing branches
 /*********************************************
 class Led {
   private:
